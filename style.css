@@ -4,6 +4,7 @@
     padding: 20px;
     text-align: center;
     color: white;
+    font-size: 90px;
 }
 
 /* Estilos para la barra de navegación */
@@ -15,7 +16,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffeb3b;
+    color: #1488f5;
 }
 
 /* Estilos para la sección principal */
@@ -40,9 +41,12 @@ nav a:hover {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #333;
+    background-color: #0c45b1;
     color: white;
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
+}
+#Bienvenido{
+    text-align: center;
 }
